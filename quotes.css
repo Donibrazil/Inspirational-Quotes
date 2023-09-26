@@ -4,11 +4,20 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(./joe-woods-4Zaq5xY5M_c-unsplash.jpg)no-repeat;
+  background: url(./joe-woods-4Zaq5xY5M_c-unsplash.jpg);
   background-position: center;
   background-size: cover;
 }
 
+#main {
+  color: black;
+  border: 5px solid black;
+  font-family: Arial, sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  margin: auto;
+  padding: auto;
+}
 
 div {
     text-align: center;
