@@ -4,7 +4,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(./joe-woods-4Zaq5xY5M_c-unsplash.jpg);
+  background: url(img/wall.jpg);
   background-position: center;
   background-size: cover;
 }
