@@ -6,9 +6,7 @@ Welcome to my GitHub portfolio! This repository showcases some of the projects I
 
 ### Project : Inspirational-Quotes
 
-- Description: A brief description of the project.
-- Repository Link: [GitHub Repository](https://github.com/yourusername/project1)
-- Live Demo: [Project Demo](https://yourprojectdemo.com)
+- Created with HTML, CSS, and JavaScript is a "Quotes of the Day" web application. Users can also interact with the application by clicking a "Next Quote" button to reveal a fresh dose of inspiration.
 
 ## Skills
 
@@ -20,3 +18,4 @@ Welcome to my GitHub portfolio! This repository showcases some of the projects I
 
 - Email: [lif_daniel@hotmail.com](codingnascimento@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniel-nascimento-5774a35a/)
+  git
