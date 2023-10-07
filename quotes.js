@@ -81,17 +81,16 @@ var arrayOfQuotes = [
           "quote": "Absorb what is useful, discard what is not, add what is uniquely your own."
         }
 
-      ]
+]
 
-      function randomSelector(arrayLength) {
+    function randomSelector(arrayLength) {
         return Math.floor(Math.random()*arrayLength);
       }
 
-      function generateQuote() {
+    function generateQuote() {
 
-      var randomNumber = randomSelector(arrayOfQuotes.length);
+        var randomNumber = randomSelector(arrayOfQuotes.length);
+        document.getElementById("quoteOutput").innerHTML = '"' + arrayOfQuotes[randomNumber].quote + '"';
+        document.getElementById("authorOutput").innerHTML = "-" + arrayOfQuotes[randomNumber].author;
 
-      document.getElementById("quoteOutput").innerHTML = '"' + arrayOfQuotes[randomNumber].quote + '"';
-      document.getElementById("authorOutput").innerHTML = "-" + arrayOfQuotes[randomNumber].author;
-
-      }
+    }
