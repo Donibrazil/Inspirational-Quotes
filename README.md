@@ -20,6 +20,3 @@ Welcome to my GitHub portfolio! This repository showcases some of the projects I
 
 - Email: [lif_daniel@hotmail.com](codingnascimento@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniel-nascimento-5774a35a/)
-- Portfolio Website: [Portfolio Website](https://donibrazil.github.io/)
-
-# Donibrazil.github.io
